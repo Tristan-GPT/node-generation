@@ -1,0 +1,33 @@
+{
+  "name": "node-generation",
+  "version": "1.0.4",
+  "description": "A simple module for generating password, id and other",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tristan-GPT/node-generation.git"
+  },
+  "author": "Tristan-GPT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tristan-GPT/node-generation/issues"
+  },
+  "homepage": "https://github.com/Tristan-GPT/node-generation#readme",
+  "keywords": [
+    "generator",
+    "password",
+    "id",
+    "simple",
+    "util"
+  ],
+  "dependencies": {
+    "node-generation": "^1.0.4",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.1"
+  }
+}
